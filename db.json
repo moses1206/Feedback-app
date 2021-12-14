@@ -1,0 +1,29 @@
+{
+  "feedback": [
+    {
+      "id": 2,
+      "rating": 8,
+      "text": "this is feedback Item 2 coming from the backend"
+    },
+    {
+      "id": 3,
+      "rating": 5,
+      "text": "this is feedback Item 3 coming from the backend"
+    },
+    {
+      "text": "과연 잘 동작을 할까요 궁금합니다.233",
+      "rating": 6,
+      "id": 4
+    },
+    {
+      "text": "33333333333333333333333333333333255",
+      "rating": 8,
+      "id": 5
+    },
+    {
+      "text": "1000000000000",
+      "rating": 5,
+      "id": 6
+    }
+  ]
+}
